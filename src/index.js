@@ -1,20 +1,19 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable eol-last */
-/* eslint-disable react/jsx-indent */
-/* eslint-disable linebreak-style */
-/* eslint-disable import/order */
-/* eslint-disable linebreak-style */
-import React from 'react';
-import App from './ReactApp';
-import reportWebVitals from './report';
-import './index.css';
-import ReactDOM from 'react-dom/client';
+/* eslint-disable comma-dangle */
+/* eslint-disable quotes */
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./ReactApp";
+import reportWebVitals from "./reports";
 
-const myFirstReact = ReactDOM.createRoot(document.getElementById('first'));
-myFirstReact.render(
-    <React.StrictMode>
-        <App />
-    </React.StrictMode>,
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
 );
 
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
