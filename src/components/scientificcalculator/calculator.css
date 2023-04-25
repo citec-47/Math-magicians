@@ -12,7 +12,7 @@ body {
   width: 100%;
 }
 
-.container {
+.maincontainer{
   width: 280px;
   background: #c1c1c1;
   height: auto;
@@ -24,7 +24,7 @@ body {
   box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, 0.75);
 }
 
-#calculator-input {
+#calcu-input {
   grid-column-start: 1;
   grid-column-end: 5;
   background: #858693;

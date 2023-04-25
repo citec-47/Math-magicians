@@ -18,8 +18,8 @@ const MyCalculator = () => {
   return (
     <>
       <center>
-        <div className="container">
-          <input type="number" value={inputValue} id="calculator-input" readOnly />
+        <div className="maincontainer">
+          <input type="number" value={inputValue} id="calcu-input" readOnly />
           <button type="button" onClick={() => myInputValueButton('AC')}>AC</button>
           <button type="button" onClick={() => myInputValueButton('+/-')}>+/-</button>
           <button type="button" onClick={() => myInputValueButton('%')}>%</button>
