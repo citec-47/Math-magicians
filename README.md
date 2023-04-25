@@ -76,8 +76,7 @@ After you're finished please remove all the comments and instructions!
 _ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- Comming Soon
+- [Live](https://citec-47.github.io/MEALS-API/dist/)
 
 
 <!-- GETTING STARTED -->
