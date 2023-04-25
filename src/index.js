@@ -6,8 +6,8 @@ import "./index.css";
 import App from "./ReactApp";
 import reportWebVitals from "./reports";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
+const first = ReactDOM.createRoot(document.getElementById("first"));
+first.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
