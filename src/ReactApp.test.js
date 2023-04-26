@@ -1,6 +1,7 @@
 /* eslint-disable linebreak-style */
 import { render, screen } from '@testing-library/react';
-import App from './ReactApp';
+// eslint-disable-next-line import/extensions
+import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);

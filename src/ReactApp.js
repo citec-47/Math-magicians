@@ -1,12 +1,13 @@
 /* eslint-disable linebreak-style */
-/* eslint-disable react/jsx-indent */
-/* eslint-disable linebreak-style */
 import './App.css';
+import MyCalculator from './components/scientificcalculator/calculate';
 
 function App() {
-// eslint-disable-next-line indent
-return (
-<h1>This is my First React Application</h1>);
+  return (
+    <>
+      <MyCalculator />
+    </>
+  );
 }
 
 export default App;

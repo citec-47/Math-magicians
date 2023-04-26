@@ -1,20 +1,12 @@
 /* eslint-disable linebreak-style */
-/* eslint-disable eol-last */
-/* eslint-disable react/jsx-indent */
-/* eslint-disable linebreak-style */
-/* eslint-disable import/order */
-/* eslint-disable linebreak-style */
 import React from 'react';
-import App from './ReactApp';
-import reportWebVitals from './report';
-import './index.css';
 import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './ReactApp';
 
-const myFirstReact = ReactDOM.createRoot(document.getElementById('first'));
-myFirstReact.render(
-    <React.StrictMode>
-        <App />
-    </React.StrictMode>,
+const first = ReactDOM.createRoot(document.getElementById('first'));
+first.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
 );
-
-reportWebVitals();
