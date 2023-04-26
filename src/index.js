@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './ReactApp';
+import App from './App';
 
 const first = ReactDOM.createRoot(document.getElementById('first'));
 first.render(
