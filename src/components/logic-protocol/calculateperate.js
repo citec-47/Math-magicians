@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import Big from 'big.js';
 
 export default function operate(numBer1, numBer2, operaTions) {

@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import operate from './calculateperate';
 
 function initNumber(item) {

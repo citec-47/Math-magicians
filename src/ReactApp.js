@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import './App.css';
 import MyCalculator from './components/scientificcalculator/calculate';
 
