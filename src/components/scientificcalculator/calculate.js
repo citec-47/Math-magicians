@@ -4,7 +4,7 @@ import calculate from '../logic-protocol/calculating';
 import './calculator.css';
 
 const MyCalculator = () => {
-  const [calculatorData, setCalculatorData] = useState({
+  const [calculatorData, setinCalculatorData] = useState({
     total: null,
     next: null,
     operation: null,
@@ -12,7 +12,7 @@ const MyCalculator = () => {
 
   const myInputValueButton = (buttonName) => {
     const newData = calculate(calculatorData, buttonName);
-    setCalculatorData(newData);
+    setinCalculatorData(newData);
   };
 
   const inputValue = calculatorData.next || calculatorData.total || '0';
