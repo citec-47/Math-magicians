@@ -1,4 +1,4 @@
-<div align="center"><h1>Math Magicians</h1></div>
+<div align="center"><h1>Math Magician</h1></div>
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
