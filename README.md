@@ -48,7 +48,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Math Magicians
 
-> This is _**Math Magicians (SPA)**_ Web App, The Web App is made up of one _Calculator_ and one Math-related _Quotes_ generator.  React, CSS, JS,  and API in are the basic tools for this project.
+> This is _**Math Magicians (SPA)**_ Web App, The Web App is made up of one _Calculator_ and one Math-related _Quotes_ generator.  React, CSS, JS,  and API in are the basic tools for this project. Its an SPA project
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -76,9 +76,8 @@ After you're finished please remove all the comments and instructions!
 _ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
- [Live](http://citect-47.github.io/Math-magicians)
 
-- Comming Soon
+ [Live](http://citect-47.github.io/Math-magicians)
 
 
 <!-- GETTING STARTED -->
