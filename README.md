@@ -75,10 +75,6 @@ After you're finished please remove all the comments and instructions!
 - **[Styling css with colors, borders, paddings, margins & sizes, etc]**
 _ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
- [Live](http://citect-47.github.io/Math-magicians)
-
 
 <!-- GETTING STARTED -->
 <!-- AUTHORS -->
