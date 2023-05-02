@@ -1,7 +1,11 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable linebreak-style */
+/* eslint-disable react/jsx-no-undef */
+/* eslint-disable linebreak-style */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { BrowserRouter } from 'react-router-dom';
 import App from './ReactApp';
 

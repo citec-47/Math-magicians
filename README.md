@@ -1,4 +1,4 @@
-<div align="center"><h1>Math Magician</h1></div>
+<div align="center"><h1>Math Magicians</h1></div>
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -74,10 +74,6 @@ After you're finished please remove all the comments and instructions!
 - **[React Web App (SPA)]**
 - **[Styling css with colors, borders, paddings, margins & sizes, etc]**
 _ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
- [COMMING SOON]()
 
 
 <!-- GETTING STARTED -->
