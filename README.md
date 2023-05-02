@@ -76,7 +76,7 @@ After you're finished please remove all the comments and instructions!
 _ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [COMMING SOON]()
+- [Live](http://citect-47.github.io/Math-magicians)
 
 
 <!-- GETTING STARTED -->
