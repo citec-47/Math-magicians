@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 // eslint-disable-next-line import/no-extraneous-dependencies
 import { Link, Routes, Route } from 'react-router-dom';
 import './hearder.css';
