@@ -1,13 +1,12 @@
 * {
   padding: 0;
   margin: 0;
+  text-decoration: none;
 }
 
 body {
   background: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  font-family: 'Titillium Web', sans-serif;
   height: 100vh;
   width: 100%;
 }
@@ -22,6 +21,7 @@ body {
   -webkit-box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, 0.75);
+  margin-top: 100px;
 }
 
 #calcu-input {
