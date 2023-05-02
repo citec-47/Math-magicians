@@ -1,10 +1,9 @@
-import './App.css';
-import MyCalculator from './components/scientificcalculator/calculate';
+import Header from './components/Header/hearder';
 
 function App() {
   return (
     <>
-      <MyCalculator />
+      <Header />
     </>
   );
 }
