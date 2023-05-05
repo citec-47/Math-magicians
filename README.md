@@ -1,6 +1,6 @@
 <div align="center"><h1>Math Magicians</h1></div>
 <!--
-HOW TO USE:
+HOW TO USEe:
 This is an example of how you may give instructions on setting up your project locally.
 
 Modify this file to match your project and remove sections that don't apply.
